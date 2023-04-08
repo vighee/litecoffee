@@ -3,3 +3,5 @@ smile chat
 audio call 
 video call
  
+ PDF attach
+ voice record
